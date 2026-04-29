@@ -8,6 +8,14 @@ Elección de modo de juego, contra la máquina o contra otro jugador en el mismo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 # Capturas
+## Menu Principal
+![Menu Principal](./Assets/mainMenu.png)
+
+## Colocación de Barcos
+![Colocación de Barcos](./Assets/colocacionBarco.png)
+
+## Turno de Ataque
+![Turno de Ataque](./Assets/turno.png)
 
 # Explicación de Ejecución
 - JDK 25
