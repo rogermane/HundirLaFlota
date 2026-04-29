@@ -40,5 +40,5 @@ HundirLaFlota/
 ```
 
 # Decisiones Técnicas
-- Se usa la libreria java.util.Scanner para recibir los inputs.
+- Se usa la librería `java.util.Scanner` para recibir los inputs.
 - Decidimos poner un limite de 200 turnos para que en caso de entrar en un bucle no colapse.
